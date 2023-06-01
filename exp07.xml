@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<students xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Document3.xsd">
+
+    <student>
+        <name>XYZ</name>
+        <id>001</id>
+        <email>XYZ@ab.com</email>
+        <program>Computer Science</program>
+        <placement>Yes</placement>
+        <package>50000</package>
+    </student>
+    <student>
+        <name>YZX</name>
+        <id>002</id>
+        <email>YZX@ab.com</email>
+        <program>Information Technology</program>
+        <placement>No</placement>
+        <package>0</package>
+    </student>
+    <student>
+        <name>ZXY</name>
+        <id>003</id>
+        <email>ZXY@ab.com</email>
+        <program>Electronics Engineering</program>
+        <placement>Yes</placement>
+        <package>70000</package>
+    </student>
+</students>
